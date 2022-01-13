@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mattcperry382
+- 👋 Hi, I’m Matt
 - 👀 I’m interested in frontend and/or full-stack development. I love webpage designing and making things look pleasing to the eye.
 CSS nerd. 
 HTML junkie.
