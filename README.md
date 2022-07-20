@@ -3,7 +3,8 @@
 CSS nerd. 
 HTML junkie.
 Definitely a fan of Python/Django.
-- 🌱 I’m currently learning C#/ASP.net
+Proficient in C#/ASP.net, JavaScript, PHP
+- 🌱 I’m currently learning Vue.js.
 - 💞️ I’m looking to collaborate on any projects involving the above, feel free to reach out to me!
 - 📫 Reach me at mattcperry382@gmail.com!
 
