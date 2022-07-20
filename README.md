@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matt
 - 👀 I’m interested in frontend and/or full-stack development. I love webpage designing and making things look pleasing to the eye.  
-CSS nerd. 
+CSS nerd.  
 HTML junkie.  
 Definitely a fan of Python/Django.  
 Proficient in C#/ASP.net, JavaScript, PHP  
